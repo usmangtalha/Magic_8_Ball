@@ -6,9 +6,9 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.black,
         appBar: AppBar(
-          backgroundColor: Colors.indigoAccent,
+          backgroundColor: Colors.lightBlue,
           title: Center(
             child: Text(
               'Ask Me Anything',
